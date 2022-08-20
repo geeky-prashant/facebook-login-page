@@ -10,8 +10,6 @@
   <h2 align="center">Facebook Login Page</h2>
 
   In this project, I have created Facebook Login Page, The project is built using Tailwind CSS.
-  
-  <a href="https://facebook-login-page-bay.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
