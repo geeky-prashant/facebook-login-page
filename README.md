@@ -11,7 +11,7 @@
 
   In this project, I have created Facebook Login Page, The project is built using Tailwind CSS.
   
-  <a href="https://geeky-prashant.github.io/facebook-login-page/"><strong>➥ Live Demo</strong></a>
+  <a href="https://facebook-login-page-bay.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
